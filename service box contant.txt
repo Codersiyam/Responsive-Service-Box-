@@ -1,0 +1,32 @@
+Html: HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content.
+
+
+CSS:CSS is the acronym of “Cascading Style Sheets”. CSS is a computer language for laying out and structuring web pages (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are equally called CSS files (.CSS.)
+
+JavaScript : JavaScript is a programming language used to create dynamic content for websites. It achieves this by adding new HTML elements while modifying existing ones. Many coders enhance web development skills using JavaScript to create user-friendly and interactive websites.
+
+SASS : Short for Syntactically Awesome Style Sheets, SASS is a popular CSS pre-processor. SASS code is processed by the program and compiled into CSS code, which can be used to style HTML elements. SASS controls how it appears on the web page. It is compatible with all CSS versions.
+
+jQuery : jQuery is a lightweight, "write less, do more", JavaScript library. The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+
+React.js:    React. js is an open-source JavaScript library, crafted with precision by Facebook, that aims to simplify the intricate process of building interactive user interfaces. Imagine a user interface built with React as a collection of components, each responsible for outputting a small, reusable piece of HTML code.
+
+
+Color code in project.......👇
+
+Html:#FF5733,
+
+CSS:#0e8ef0;
+
+JavaScript:#dc8410;
+
+SASS:#a72288a6; 
+
+jQuery:#1554bad6;
+
+React.js:#20b4cfff;
+
+
+
+
+

@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background:linear-gradient(45deg, #FF5733, #0e8ef0,#dc8410, #a72288a6,  #1554bad6,#20b4cfff  );
+    padding:15px 9%;
+    padding-bottom: 100px;
+}
+.service{
+    text-align: center;
+    margin-bottom: 35px;
+    margin-top: 35px;
+    text-shadow: 4px 0px 15px rgba(0,0,0,0.5);
+    font-size: 35px;
+    font-weight: bolder;
+    color: #fff;
+    background:linear-gradient(45deg, #FF5733, #0e8ef0,#dc8410, #a72288a6,  #1554bad6,#20b4cfff  );
+    border: 3px solid #fff;
+}
+.container{
+   min-height: 100vh;
+}
+.container-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    max-width: 1880px;
+    margin-top: 125px;
+}
+.container-col{
+    max-width: 400px;
+    height: auto;
+    padding: 10px 25px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
+    border-radius: 20px;
+    transition: all 0.5s ease-in-out;
+}
+.container-col:hover{
+    transform: scale(1.1);
+}
+.container-image{
+    margin-top: 35px;
+}
+.container-title-1{
+   font-size: 30px;
+   font-weight: 600;
+   color: #FF5733;
+   margin-top: 18px;
+   margin-bottom: 18px;
+}
+.container-title-2{
+    font-size: 30px;
+    font-weight: 600;
+    color: #0e8ef0;
+    margin-top: 18px;
+    margin-bottom: 18px;
+ }
+ .container-title-3{
+    font-size: 30px;
+    font-weight: 600;
+    color: #dc8410;
+    margin-top: 18px;
+    margin-bottom: 18px;
+ }
+ .container-title-4{
+    font-size: 30px;
+    font-weight: 600;
+    color: #a72288a6; 
+    margin-top: 18px;
+    margin-bottom: 18px;
+ }
+ .container-title-5{
+    font-size: 30px;
+    font-weight: 600;
+    color: #1554bad6;
+    margin-top: 18px;
+    margin-bottom: 18px;
+ }
+ .container-title-6{
+    font-size: 30px;
+    font-weight: 600;
+    color: #20b4cfff;
+    margin-top: 18px;
+    margin-bottom: 18px;
+ }
+ .container-contant{
+    font-weight: lighter;
+    margin-bottom: 25px;
+ }
+ .container-btn  {
+    margin-top: 35px;
+    margin-bottom: 35px;
+ }
+ .container-btn a{
+    background-color: #000;
+    padding: 15px 35px;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: all 0.5s ease-in-out;
+ }
+ .container-btn a:hover{
+    letter-spacing: 2px;
+ }
